@@ -1,3 +1,3 @@
-module go-cmd/go-depency-A
+module go-depency-A
 
 go 1.18
